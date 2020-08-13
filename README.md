@@ -1,5 +1,5 @@
 
-This facial recognition app detects faces in the images. Register, login, submit image links, access user profile, update the avatar.
+This face app detects faces in the images. Register, login, submit image links, access user profile, update the avatar.
 
 Built using React
 
